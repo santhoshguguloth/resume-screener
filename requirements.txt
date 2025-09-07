@@ -7,3 +7,4 @@ nltk
 wordcloud
 python-docx
 PyPDF2
+gunicorn

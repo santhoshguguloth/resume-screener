@@ -1,7 +1,7 @@
 import os
 from flask import Flask, request, render_template, redirect
 import joblib
-from utils import extract_text
+from src.utils import extract_text
 import re
 import nltk
 

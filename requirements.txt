@@ -1,3 +1,5 @@
+Flask==2.3.3
+gunicorn
 pandas
 numpy
 matplotlib
@@ -7,4 +9,3 @@ nltk
 wordcloud
 python-docx
 PyPDF2
-gunicorn
